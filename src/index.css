@@ -31,6 +31,7 @@ textarea {
 
 .alert-secondary {
    height: 85px !important;
+   padding: 10px !important;
 }
 
 .mensaje-lista > * {
