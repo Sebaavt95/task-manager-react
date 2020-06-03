@@ -11,4 +11,4 @@ Este proyecto fue realizado usando los fundamentos de React para crear aplicacio
 - Una vez creado una tarea aparecerá la lista de las tareas pendientes y la lista de las tareas realizadas. Al borrar una tarea de la lista de pendientes, se almacenará en la lista de realizadas. Esta última contiene un botón que vacía la misma si el usuario lo desea.
 
 ### Deployment
-La aplicación está desplegada en la web utilizando como hosting Netlify y se puede acceder mediante este link: https://trusting-keller-91a76a.netlify.app/
+La aplicación está desplegada en la web utilizando como hosting Netlify y se puede acceder mediante este link: https://taskmanagerreact.netlify.app/
